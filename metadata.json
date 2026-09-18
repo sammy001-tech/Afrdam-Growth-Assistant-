@@ -1,0 +1,6 @@
+{
+  "name": "Afridam Growth Assistant",
+  "description": "Dedicated Growth Operations AI system for managing, executing, measuring, and documenting the Afridam AI internship across web and Telegram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
